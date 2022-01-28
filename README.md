@@ -1,1 +1,1 @@
-# django_books_pages
+# DOcker image for design django app using postgresql
