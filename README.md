@@ -1,1 +1,1 @@
-# DOcker image for design django app using postgresql
+# Docker image for design django app using postgresql
